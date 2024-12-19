@@ -171,4 +171,4 @@
 
 
 
-avg salary > 1000 deptname and avg salary 
+
